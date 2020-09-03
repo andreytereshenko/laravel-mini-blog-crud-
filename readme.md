@@ -1,6 +1,6 @@
-##Laravel mini blog
+# Laravel mini blog
 
-##Mac OS, Ubuntu and Windows. 
+# Mac OS, Ubuntu and Windows. 
 The project is written in Laravel v.5.8.35
 1. Download the project with Git
 2. Rename file .env.example to .env and fill it with data to connect to your database
